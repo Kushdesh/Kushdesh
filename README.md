@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kushdesh
 - 👀 I’m interested in data science/statistics and related tools which are robust and at the same time scalable 
-- 🌱 I’m currently learning Javascript, SQL, Python
+- 🌱 I’m currently learning Javascript, SQL, Python, c++, rust
 - 💞️ I’m looking to collaborate on data analysis or its setup related work
 - 📫 Email: kushdesh@gmail.com
 
